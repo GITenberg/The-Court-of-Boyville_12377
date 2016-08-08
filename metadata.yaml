@@ -1,0 +1,45 @@
+_repo: The-Court-of-Boyville_12377
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Lowell, Orson
+    birthdate: 1871
+    deathdate: 1956
+    gutenberg_agent_id: '8723'
+    url: http://www.gutenberg.org/2009/agents/8723
+  - agent_name: Verbeek, Gustave
+    aliases:
+    - Verbeek, G. (Gustave)
+    - Verbeck, Gustave
+    birthdate: 1867
+    deathdate: 1937
+    gutenberg_agent_id: '37203'
+    url: http://www.gutenberg.org/2009/agents/37203
+creator:
+  author:
+    agent_name: White, William Allen
+    alias: White, W. A. (William Allen)
+    birthdate: 1868
+    deathdate: 1944
+    gutenberg_agent_id: '1822'
+    url: http://www.gutenberg.org/2009/agents/1822
+    wikipedia: http://en.wikipedia.org/wiki/William_Allen_White
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12377'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Boys -- Juvenile fiction'
+- GITenberg
+tableOfContents: 'The martyrdom of "Mealy" Jones -- A recent Confederate victory --
+  "While the evil days come not" -- James Sears: a naughty person -- Much pomp and
+  several circumstances -- "The herb called hearts-ease".'
+title: The Court of Boyville
+url: http://www.gutenberg.org/ebooks/12377
