@@ -1,5 +1,5 @@
 _repo: The-Court-of-Boyville_12377
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrators:
   - agent_name: Lowell, Orson
@@ -15,6 +15,9 @@ contributor:
     deathdate: 1937
     gutenberg_agent_id: '37203'
     url: http://www.gutenberg.org/2009/agents/37203
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: White, William Allen
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1822
     wikipedia: http://en.wikipedia.org/wiki/William_Allen_White
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12377#The-Court-of-Boyville
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
